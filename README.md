@@ -33,7 +33,7 @@ develop environment
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=73d753)
 
 ## final considerations
-I'm working fulltime, so I don't have time to support my personal projects, that's why they have so much dependencies problems. I'll try to fix the security issues this weekend.
+I'm working fulltime, so I don't have time to support my personal projects, that's why they have so much dependencies problems. Also, I **have some knowledge** on  DevOps tools and methods, but **I'm not** into it.
 Also, you can find me on [my LinkedIn profile](https://www.linkedin.com/in/nickojs/). 
 
 <!--
