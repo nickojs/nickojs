@@ -34,7 +34,7 @@ develop environment
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=73d753)
 
 ## final considerations
-I'm currently rebuilding my portfolio, doing [this project](https://github.com/nickojs/lockpicking-simulator-ts) right now. Regarding DevOps technologies, I have some knowledge (GCP and AWS, mostly), but **I'm not** really into it.
+I'm currently rebuilding my portfolio, just did [this project](https://github.com/nickojs/lockpicking-simulator-ts) and now I'm into another (still private) project. Regarding DevOps technologies, I have some knowledge (GCP and AWS, mostly), but **I'm not** really into it.
 
 Also, you can find me on [my LinkedIn profile](https://www.linkedin.com/in/nickojs/). 
 
