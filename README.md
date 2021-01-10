@@ -30,6 +30,7 @@ More details of the technologies I'm into:
 ![](https://img.shields.io/badge/Lib-Routing_Controllers-informational?style=flat-square&logo=node.js&logoColor=white&color=73d753)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=3797d5)
 ![](https://img.shields.io/badge/ORM-TypeORM-informational?style=flat-square&logo=typescript&logoColor=white&color=3797d5)
+![](https://img.shields.io/badge/Protocol-Socket.io-informational?style=flat-square&logo=Socket.io&logoColor=white&color=73d753)
 ![](https://img.shields.io/badge/FrameWork-Nest-informational?style=flat-square&logo=nestjs&logoColor=white&color=73d753)
 ![](https://img.shields.io/badge/FrameWork-React_Native-informational?style=flat-square&logo=react&logoColor=white&color=73d753)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=73d753)
