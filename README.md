@@ -1,7 +1,7 @@
 ### sup
 
 ## whoami
-My name is Nicolau, a 26 y/o FullStack Developer from Brazil. Currently working with an amazing international team :) 
+My name is Nicolau (or Nic), a 26 y/o FullStack Developer from Brazil. Currently working with an amazing international team :) 
 
 ## my stack
 TypeScript. TypeScript everywhere. 
