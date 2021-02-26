@@ -35,11 +35,9 @@ More details of the technologies I'm into:
 ![](https://img.shields.io/badge/FrameWork-React_Native-informational?style=flat-square&logo=react&logoColor=white&color=73d753)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=73d753)
 
-## final considerations
-I'm currently rebuilding my portfolio, just did [this project](https://github.com/nickojs/lockpicking-simulator-ts) and now I'm almost finishing [this one](https://github.com/nickojs/zombie-survival-network). Regarding DevOps technologies, I have some knowledge (GCP and AWS, mostly), but **I'm not** really into it.
-
-Also, you can find me on [my LinkedIn profile](https://www.linkedin.com/in/nickojs/). 
-
+## social networks
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nickojs/)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat-square&logo=Instagram&logoColor=white&color=cf005f)](https://www.instagram.com/notnicko/)
 <!--
 **nickojs/nickojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 cor pra coisa q eu me garanto -> 33fff6
