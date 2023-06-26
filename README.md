@@ -1,7 +1,5 @@
-### sup
-
 ## whoami
-My name is Nicolau (you can call me Nic), a 28 y/o React Developer from Brazil. Currently looking for a new opportunity.
+My name is Nicolau (you can call me Nic), a 29 y/o Fullstack Developer from Brazil.
 
 ## my stack
 TypeScript w/ ReactJS and Storybook are definetively my favourite tools for web development. I've been learning Vue too. Cool stuff.
