@@ -1,7 +1,9 @@
 ## whoami
 My name is Nicolau (you can call me Nic).
 
-I am a full-stack developer with a focus on front-end development. I have almost 3 years of professional experience creating user-friendly and engaging websites and applications using React, Redux, TypeScript, Node (NestJS as well) and it's related libraries, such as Storybook, Jest, React Testing Library, etc.
+I am a full-stack developer FE heavy with over 4 years of professional experience creating user-friendly and awesome web applications using React, Redux, TypeScript, Node (NestJS as well) and it's related libraries, such as Storybook, Jest, React Testing Library, and so on :)
+
+My latest personal project is "Runechat", a websockets powered chat application that I'll integrate with my other OSRS related project (I may be a fan of runescape, maybe... xD). 
 
 Below are my favourite tools and environments to code :)
  
