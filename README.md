@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=4000&color=58388F&center=true&vCenter=true&width=450&duration=1500&lines=Full-Stack+Developer+(FE+heavy);React+%7C+TypeScript+%7C+Node;Builder+at+heart+💜" minHeight="60px" alt="Typing SVG" />
 
   <br/>
+  <br/>
 
 </div>
 
@@ -38,14 +39,14 @@ Docs & install guide: [omni-cli-docs.vercel.app](https://omni-cli-docs.vercel.ap
 
 These are older but still pinned because nostalgia + plans to rebuild with modern stack (and play around more with AI-assisted coding).
 
-🔐 **Lockpicking Simulator** — fun front-end recreation of Skyrim's lockpicking mini-game (built right after learning React Hooks).  
-  Live (old build): [lockpicking-simulator.netlify.app](https://lockpicking-simulator.netlify.app/)  
+🔐 **Lockpicking Simulator**: fun front-end recreation of Skyrim's lockpicking mini-game (built right after learning React Hooks).  
+  Live (old build, not maintained): [lockpicking-simulator.netlify.app](https://lockpicking-simulator.netlify.app/)  
 
-💬 **Runechat** — websockets-powered chat app (Socket.io), originally planned to tie into OSRS-trade. Not deployed.
+💬 **Runechat**: websockets-powered chat app (Socket.io), originally planned to tie into OSRS-trade.
 
-🗡️ **OSRS-Trade** — Old School RuneScape related project (trading/exchange vibes?). Not deployed.  
+🗡️ **OSRS-Trade**: A replica of Old School RuneScape's GE (grand exchange). But here you don't need GPs to trade the items. Go get your GF already! 
 
-(I'm probably a bit fan of Runescape... Just a bit)
+I'm probably a bit fan of Runescape... Just a bit. Both Runescape projects are not deployed. 
 
 ### My stack
 
