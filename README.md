@@ -27,11 +27,6 @@ And of course, AI powered whenever possible. Either with company-backed premium 
 
 ### Latest personal project
 
-
-Each tool installs independently and pulls its own dependencies. Core dependencies: tmux, jq, git (optional), age, gocryptfs.
-Org: github.com/omni-ecosystem
-Docs: omni-cli-docs.vercel.app
-
 **🖥️ Omni CLI** 
 Terminal-first workspace manager to organize, monitor, and launch all my projects from one place — supercharged with tmux for smart pane layouts, keybindings, and real-time session control.
 What started as me playing around with Claude Code turned into a modular implementation of bash scripts, the [Omni Ecosystem](https://github.com/omni-ecosystem)
@@ -61,6 +56,8 @@ These are older but still pinned because nostalgia + plans to rebuild with moder
 🗡️ **OSRS-Trade**: A replica of Old School RuneScape's GE (grand exchange). But here you don't need GPs to trade the items. Go get your GF already! 
 
 I'm probably a bit fan of Runescape... Just a bit. Both Runescape projects are not deployed. 
+
+**UPDATE 02/01/2026** I'm actually rebuilding OSRS-Trade ☺️
 
 ### My stack
 
