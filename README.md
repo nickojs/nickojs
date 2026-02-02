@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1>Hi there! I'm Nic</h1>
+  <h1>Hi there 👋 I'm Nic</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=4000&color=58388F&center=true&vCenter=true&width=450&duration=1500&lines=Full-Stack+Developer+(FE+heavy);React+%7C+TypeScript+%7C+Node;Builder+at+heart+💜" minHeight="60px" alt="Typing SVG" />
 
