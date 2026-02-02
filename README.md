@@ -27,13 +27,27 @@ And of course, AI powered whenever possible. Either with company-backed premium 
 
 ### Latest personal project
 
-🖥️ **Omni CLI** 
-Terminal-first workspace manager to organize, monitor, and launch all my projects from one place — supercharged with tmux for smart pane layouts, keybindings, and real-time session control. Built in bash, depends on tmux, jq, git (optional), age, gocryptfs.  
 
-This one started as me playing around with Claude Code to get better with AI agents and I ended up building something really useful in a totally different language (bashscript).
+Each tool installs independently and pulls its own dependencies. Core dependencies: tmux, jq, git (optional), age, gocryptfs.
+Org: github.com/omni-ecosystem
+Docs: omni-cli-docs.vercel.app
 
-Repo: [github.com/nickojs/omni-cli](https://github.com/nickojs/omni-cli)  
+**🖥️ Omni CLI** 
+Terminal-first workspace manager to organize, monitor, and launch all my projects from one place — supercharged with tmux for smart pane layouts, keybindings, and real-time session control.
+What started as me playing around with Claude Code turned into a modular implementation of bash scripts, the [Omni Ecosystem](https://github.com/omni-ecosystem)
+
+[omni-cli](https://github.com/omni-ecosystem/omni-cli): the main workspace manager
+
+[omni-navigator](https://github.com/omni-ecosystem/omni-navigator): file browser and navigation utilities
+
+[omni-secrets](https://github.com/omni-ecosystem/omni-secrets): encrypted secrets management with age + gocryptfs
+
+[omni-ui-kit](https://github.com/omni-ecosystem/omni-ui-kit): shared UI components sourced by other tools
+
+
 Docs & install guide: [omni-cli-docs.vercel.app](https://omni-cli-docs.vercel.app/)
+
+(Note: This is a very recent change, that doc is outdated already, it only covers the installation of omni-cli. I will updated ASAP!)
 
 ###  Pet projecst that are old but I love them
 
